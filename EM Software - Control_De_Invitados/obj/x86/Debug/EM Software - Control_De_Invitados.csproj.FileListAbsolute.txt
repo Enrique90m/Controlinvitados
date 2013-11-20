@@ -1,0 +1,26 @@
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\bin\Debug\EM Software - Control_De_Invitados.exe
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\bin\Debug\EM Software - Control_De_Invitados.pdb
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM_Software___Control_De_Invitados.Control_de_invitados.resources
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM_Software___Control_De_Invitados.Properties.Resources.resources
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM Software - Control_De_Invitados.exe
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM Software - Control_De_Invitados.pdb
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\bin\Debug\EM Software - Control_De_Invitados.exe.config
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.write.785.tlog
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.write.965.tlog
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.read.399.tlog
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.read.402.tlog
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.read.405.tlog
+C:\Users\EnriQuE\Desktop\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.read.408.tlog
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\bin\Debug\EM Software - Control_De_Invitados.exe.config
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\bin\Debug\EM Software - Control_De_Invitados.exe
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\bin\Debug\EM Software - Control_De_Invitados.pdb
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM_Software___Control_De_Invitados.Properties.Resources.resources
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM Software - Control_De_Invitados.exe
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM Software - Control_De_Invitados.pdb
+C:\EM Software - Control_De_Invitados\EM Software - Control_De_Invitados\obj\x86\Debug\EM_Software___Control_De_Invitados.Form1.resources
